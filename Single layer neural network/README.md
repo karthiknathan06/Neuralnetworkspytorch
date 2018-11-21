@@ -25,3 +25,7 @@ Finally
  
  Here this is simple way of learning how a neural network works.
  But actual network consist of many hidden layers and various activation function and backpropagation is used to adjust the weights and bias value and Optimistic algorithms like gradient descent are used.
+
+
+For getting this done. I have used colab notebook with GPU capability
+Google Colab is a free cloud service and now it supports free GPU! You can: improve your Python programming language coding skills. develop deep learning applications using popular libraries such as Keras, TensorFlow, PyTorch, and OpenCV.
