@@ -22,7 +22,7 @@ Finally
  b is the bias
  
  Then fitting this value into activation function gives the probabilty value as output
- 
+ <img src="blog.jpg">
  Here this is simple way of learning how a neural network works.
  But actual network consist of many hidden layers and various activation function and backpropagation is used to adjust the weights and bias value and Optimistic algorithms like gradient descent are used.
 
