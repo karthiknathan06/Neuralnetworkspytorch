@@ -23,3 +23,5 @@ Export models in the standard ONNX (Open Neural Network Exchange) format for dir
 
 C++ FRONT-END
 The C++ frontend is a pure C++ interface to PyTorch that follows the design and architecture of the established Python frontend. It is intended to enable research in high performance, low latency and bare metal C++ applications.
+
+Here i have used google colab jupyter notebook for processing
