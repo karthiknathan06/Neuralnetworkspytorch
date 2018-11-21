@@ -12,3 +12,13 @@ Used to map the output of the neural networks from 0 to 1 or Yes or No(based on 
 
 The sigmoid function is an activation function where it scales the values between 0 and 1 by applying a threshold.
 ![alt text](https://analyticsindiamag.com/wp-content/uploads/2018/01/sigmoid-1.png)
+
+Finally 
+
+ h = Wx + b
+ 
+ where w is the weight,
+ x is the feature,
+ b is the bias
+ 
+ ![Test Image 6](G:/blog.jpg)
